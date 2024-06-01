@@ -1,8 +1,5 @@
 ---
 title: Example Title
-draft: true
-tags:
+draft: false
+tags: []
 ---
- 
-
-hello?
