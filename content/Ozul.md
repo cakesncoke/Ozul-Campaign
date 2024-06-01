@@ -1,6 +1,6 @@
 ---
 title: Ozul
-draft: false
+draft: true
 tags:
 ---
 Ozul is a world full of wonders
