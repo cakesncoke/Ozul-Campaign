@@ -1,6 +1,6 @@
 ---
 title: Oskos
-draft: true
+draft: false
 tags:
 ---
 **Oskos** is the central hub of [[Ozul]], the ruling Kingdom of the land under which the majority of the settlements serve. It was part of a larger settlement from before [[The Cataclysm]], the only segment that survived the horrors.
