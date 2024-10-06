@@ -1,3 +1,0 @@
-You thought I was really gonna write that?
-
-Go touch grass man...
