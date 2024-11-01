@@ -1,1 +1,0 @@
-![[LFE.jpg| center |500]]

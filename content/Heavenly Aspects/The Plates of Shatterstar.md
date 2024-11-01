@@ -1,1 +1,0 @@
-![[POS.jpg| center |500]]
